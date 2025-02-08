@@ -6,8 +6,8 @@
 ## 🚀 About Me  
 
 - 🔭 Currently studying at **University of Westminster**  
-- 🌱 Exploring **React, Java, and Node.js**  
-- 👯 Open to collaboration on **Backend Development projects**  
+- 🌱 Exploring **New Tech**  
+- 👯 Open to collaboration on **Full Stack Projects**  
 - 🤝 Looking for support in further developing my projects  
 - 👨‍💻 Check out my work at [GitHub](https://github.com/ThushanMadu)  
 - 📫 Reach me at **thushanmadu2003@gmail.com**  
@@ -16,11 +16,36 @@
 ## 🛠️ Technologies & Tools  
 
 - 💻 **Languages:** Python, Java, JavaScript  
-- 🎨 **Frontend:** React, Next.js, Tailwind CSS, HTML/CSS  
-- 🛠️ **Backend:** Node.js, Express.js, Flask  
+- 🎨 **Frontend:** React.js, HTML 5/ CSS 3  
+- 🛠️ **Backend:** Node.js, Express.js  
 - 📱 **Mobile:** React Native  
-- 🗄️ **Databases:** MySQL, MongoDB, PostgreSQL  
-- 🔧 **Tools:** Git, Docker, Linux  
+- 🗄️ **Databases:** MySQL, MongoDB  
+- 🔧 **Tools:** Git
+
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+  </a>
+</p>
+
 
 ## 📊 GitHub Stats  
 
@@ -31,6 +56,7 @@
   <br/>
   <img src="https://github-readme-stats-theta-eight-76.vercel.app/api/top-langs/?username=ThushanMadu&theme=dark" />
 </div>
+
 
 ## 🤝 Connect with Me  
 
@@ -54,4 +80,4 @@
 If you enjoy my work, you can buy me a coffee:  
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/thushanmadu)
 
-
+  
