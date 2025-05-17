@@ -75,9 +75,6 @@
 </a>
 </p>
 
-## ☕ Support  
 
-If you enjoy my work, you can buy me a coffee:  
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/thushanmadu)
 
   
