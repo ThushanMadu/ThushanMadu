@@ -9,9 +9,10 @@
 - 🌱 Exploring **New Tech**  
 - 👯 Open to collaboration on **Full Stack Projects**  
 - 🤝 Looking for support in further developing my projects  
-- 👨‍💻 Check out my work at [GitHub](https://github.com/ThushanMadu)  
+- 👨‍💻 Check out my work at [GitHub](https://github.com/ThushanMadu)
+- 🌐 Visit my portfolio WebSite https://thushanmadu.me/
 - 📫 Reach me at **thushanmadu2003@gmail.com**  
-- ⚡ Fun fact: **"When I'm not coding, I'm either exploring new tech gadgets or perfecting my coffee-making skills! ☕️👨‍💻"**  
+- ⚡ Fun fact: **"When I'm not coding, I either explore new tech gadgets or perfect my coffee-making skills! ☕️👨‍💻"**  
 
 ## 🛠️ Technologies & Tools  
 
