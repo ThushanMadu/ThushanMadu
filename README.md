@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thushanmadu&label=Profile%20views&color=0e75b6&style=flat" alt="thushanmadu" /> </p>
 
 ## 🚀 About Me  
-- 💼 SE Intern at WSO2
+- 💼 SE Intern at **WSO2**
 - 🔭 Currently studying at **University of Westminster**  
 - 🌱 Exploring **New Tech**  
 - 👯 Open to collaboration on **Full Stack Projects**  
