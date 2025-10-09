@@ -11,7 +11,8 @@
 - 🤝 Looking for support in further developing my projects  
 - 👨‍💻 Check out my work at [GitHub](https://github.com/ThushanMadu)
 - 🌐 Visit my portfolio WebSite https://thushanmadu.me/
-- 📫 Reach me at **thushanmadu2003@gmail.com**  
+- 📫 Reach me at **thushanmadu2003@gmail.com**
+- 🏆 Ranked among the Top 250 Most Active GitHub Users in Sri Lanka on committers.top
 - ⚡ Fun fact: **"When I'm not coding, I either explore new tech gadgets or perfect my coffee-making skills! ☕️👨‍💻"**  
 
 ## 🛠️ Technologies & Tools  
