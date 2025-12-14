@@ -57,12 +57,23 @@
   </a>
   <br/>
  
-<h3 align="center">My Statistics:</h3>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThushanMadu&bg_color=121112&color=f4f0f4&line=3ac1cb&point=1978d2&area=true&hide_border=true" alt="uditha" />
+<h3 align="center" style="color:#ff1a1a;">My Statistics:</h3>
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ThushanMadu&bg_color=000000&color=ff1a1a&line=ff0000&point=ff4d4d&area=true&hide_border=true" 
+  alt="Thushan" 
+/>
+
 <p align="center">
-<table align="center" style="background-color: black;">
+<table align="center" style="background-color:#000000; border:1px solid #ff1a1a;">
 <tr border="none">
-<td width="50%" align="center">
+<td width="50%" align="center" style="color:#ff1a1a;">
+<!-- Your content here -->
+</td>
+</tr>
+</table>
+</p>
+
  <br/>
   <img src="https://github-readme-stats-theta-eight-76.vercel.app/api/top-langs/?username=ThushanMadu&theme=dark" />
 </div>
