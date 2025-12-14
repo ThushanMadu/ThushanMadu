@@ -68,14 +68,11 @@
 <table align="center" style="background-color:#121112; border:1px solid #ff4d4d;">
 <tr border="none">
 <td width="50%" align="center" style="color:#ffffff;">
-<!-- Your content here -->
 </td>
 </tr>
 </table>
 </p>
 
-
- <br/>
   <img src="https://github-readme-stats-theta-eight-76.vercel.app/api/top-langs/?username=ThushanMadu&theme=dark" />
 </div>
 
