@@ -23,14 +23,7 @@
 - 📱 **Mobile:** React Native  
 - 🗄️ **Databases:** MySQL, MongoDB  
 - 🔧 **Tools:** Git
-
-<h3 align="center">My Statistics:</h3>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThushanMadu&bg_color=121112&color=f4f0f4&line=3ac1cb&point=1978d2&area=true&hide_border=true" alt="uditha" />
-<p align="center">
-<table align="center" style="background-color: black;">
-<tr border="none">
-<td width="50%" align="center">
-  
+ 
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
@@ -57,6 +50,14 @@
 
 
 ## 📊 GitHub Stats  
+
+
+<h3 align="center">My Statistics:</h3>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThushanMadu&bg_color=121112&color=f4f0f4&line=3ac1cb&point=1978d2&area=true&hide_border=true" alt="uditha" />
+<p align="center">
+<table align="center" style="background-color: black;">
+<tr border="none">
+<td width="50%" align="center">
 
 <div align="center">
   <a href="https://git.io/streak-stats">
