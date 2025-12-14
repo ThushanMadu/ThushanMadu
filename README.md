@@ -51,19 +51,19 @@
 
 ## 📊 GitHub Stats  
 
-
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=ThushanMadu&theme=dark" />
+  </a>
+  <br/>
+ 
 <h3 align="center">My Statistics:</h3>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThushanMadu&bg_color=121112&color=f4f0f4&line=3ac1cb&point=1978d2&area=true&hide_border=true" alt="uditha" />
 <p align="center">
 <table align="center" style="background-color: black;">
 <tr border="none">
 <td width="50%" align="center">
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ThushanMadu&theme=dark" />
-  </a>
-  <br/>
+ <br/>
   <img src="https://github-readme-stats-theta-eight-76.vercel.app/api/top-langs/?username=ThushanMadu&theme=dark" />
 </div>
 
