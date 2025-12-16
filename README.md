@@ -65,7 +65,6 @@
 />
 
 <p align="center">
-align="center" style="background-color:#121112; border:1px solid #ff4d4d;"
 <tr border="none">
 <td width="50%" align="center" style="color:#ffffff;">
 </td>
