@@ -51,11 +51,12 @@
 
 ## 📊 GitHub Stats  
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=ThushanMadu&theme=dark" />
   </a>
-  <br/>
+  <br/> -->
+  ![GitHub Card](https://githubcard.com/ThushanMadu.svg)
  
 <h3 align="center" style="color:#ff4d4d;">My Statistics:</h3>
 
