@@ -60,11 +60,6 @@
  
 <h3 align="center" style="color:#ff4d4d;">My Statistics:</h3>
 
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ThushanMadu&bg_color=121112&color=ff4d4d&line=3ac1cb&point=ffcc00&area=true&hide_border=true" 
-  alt="Thushan" 
-/>
-
 <p align="center">
 <tr border="none">
 <td width="50%" align="center" style="color:#ffffff;">
