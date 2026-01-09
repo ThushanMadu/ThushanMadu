@@ -55,9 +55,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=ThushanMadu&theme=gotham)](https://git.io/streak-stats)
 
-<br/><br/>
-
-<h3 style="color:#ff4d4d;">My Statistics:</h3>
+<h3 style="color:#ff4d4d; margin: 6px 0 2px 0;">My Statistics:</h3>
 
 <img src="https://github-readme-stats-theta-eight-76.vercel.app/api/top-langs/?username=ThushanMadu&theme=dark" />
 
