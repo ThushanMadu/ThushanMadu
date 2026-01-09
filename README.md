@@ -51,10 +51,7 @@
 
 ## 📊 GitHub Stats  
 
- <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ThushanMadu&theme=dark" />
-  </a>
+ [![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=ThushanMadu&theme=gotham)](https://git.io/streak-stats)
   <br/>
   <!--![GitHub Card](https://githubcard.com/ThushanMadu.svg)  -->
  
