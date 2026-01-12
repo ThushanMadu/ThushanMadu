@@ -53,7 +53,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=ThushanMadu&theme=gotham)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=ThushanMadu&theme=dark)](https://git.io/streak-stats)
 
 <h3 style="color:#ff4d4d; margin: 6px 0 2px 0;">My Statistics:</h3>
 
