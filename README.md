@@ -13,7 +13,6 @@
 - 🌐 Visit my portfolio WebSite https://thushanmadu.me/
 - 📫 Reach me at **thushanmadu2003@gmail.com**
 - 🏆 Ranked among the Top 250 Most Active GitHub Users in Sri Lanka on [committers.top](https://committers.top/sri_lanka.html?fbclid=PAQ0xDSwMDHxtleHRuA2FlbQIxMQABpxq_rioPKVeEn6il_eO7PobcKYd47FXAaQEjhzk9ZcgmlZHlXFTfiK70B0HL_aem_M2w9aI0ctU3SmDllRg4qrA)
-- ⚡ Fun fact: **"When I'm not coding, I either explore new tech gadgets or perfect my coffee-making skills! ☕️👨‍💻"**  
 
 ## 🛠️ Technologies & Tools  
 
