@@ -60,7 +60,8 @@
 
 </div>
 
- :octocat: :squirrel:##Swags 
+ ## :octocat: **Swags**
+ 
 
 [![An image of @thushanmadu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thushanmadu)](https://holopin.io/@thushanmadu)
 
